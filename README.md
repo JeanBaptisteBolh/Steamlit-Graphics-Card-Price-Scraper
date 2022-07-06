@@ -1,5 +1,5 @@
 # Steamlit-Graphics-Card-Price-Scraper
-This project opens a streamlit session which prompts the user to enter the name of a graphics card.  It then scrapes newegg.com for price info for the graphics card and displays the price variation in a histogram using plotly/streamlit..
+This project opens a streamlit session which prompts the user to enter the name of a graphics card.  It then scrapes newegg.com for price info for the graphics card and displays the price variation in a histogram using plotly/streamlit.
 
 To run:
 
