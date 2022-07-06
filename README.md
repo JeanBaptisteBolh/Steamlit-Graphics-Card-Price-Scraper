@@ -7,7 +7,7 @@ To run:
 https://python-poetry.org/docs/
 
 2. Clone this repository by running the following command:
-```git clone https://github.com/JeanBaptisteBolh/Steamlit-Graphics-Card-Price-Scraper-.git```
+```git clone https://github.com/JeanBaptisteBolh/Steamlit-Graphics-Card-Price-Scraper.git```
 
 3. Navigate to the now cloned project in terminal.
 
