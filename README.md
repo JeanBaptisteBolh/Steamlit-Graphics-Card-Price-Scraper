@@ -9,11 +9,13 @@ https://python-poetry.org/docs/
 2. Clone this repository by running the following command:
 ```git clone https://github.com/JeanBaptisteBolh/Steamlit-Graphics-Card-Price-Scraper-.git```
 
-3. Navigate to the now cloned project directory.  Run:
+3. Navigate to the now cloned project in terminal.
+
+4. Install project dependencies by running:
 ```poetry install```
 
-4. Run:
+5. Enter the project virtual environment shell:
 ```poetry shell```
 
-5. Finally, run:
+6. Finally, run this command to run the project.  This will open a browser window/tab:
 ```python3 -m streamlit run product_price_analysis.py```
